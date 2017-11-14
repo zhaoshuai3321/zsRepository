@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.203.3.132:9890/fusion_web_finance_sign/app/HiJinRong.ipa</string>
+					<string>https://raw.githubusercontent.com/zhaoshuai3321/zsRepository/master/myApp/MyApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://218.203.3.132:9890/fusion_web_finance_sign/app/icon.png</string>
+					<string>https://raw.githubusercontent.com/zhaoshuai3321/zsRepository/master/myApp/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://218.203.3.132:9890/fusion_web_finance_sign/app/icon.png</string>
+					<string>https://raw.githubusercontent.com/zhaoshuai3321/zsRepository/master/myApp/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
