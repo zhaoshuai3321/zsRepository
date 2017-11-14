@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.highcom.app.hijinrong</string>
+				<string>com.highcom.myapp</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>哈尔的金院</string>
+				<string>我的测试应用</string>
 				<key>title</key>
-				<string>哈尔的金院</string>
+				<string>我的测试应用</string>
 			</dict>
 		</dict>
 	</array>
