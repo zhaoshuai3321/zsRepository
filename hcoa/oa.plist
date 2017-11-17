@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ionicframework.hc.oa</string>
+				<string>com.highcom.oa</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
